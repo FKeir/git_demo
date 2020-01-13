@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 "Thunderbolt"
 "Quick attack"
+=======
+>>>>>>> parent of cf6578c... Add basic moves
